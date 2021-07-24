@@ -1,0 +1,227 @@
+th{
+    color: rgb(1, 19, 19);
+    font-size: 50px;
+    font-style: bold;
+    text-transform: uppercase;
+    background-color: gray;
+}
+.d11{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+.d12{
+    color: maroon;
+    font-size: 25px;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+.d13{
+    color: mediumblue;
+    font-size: 25px;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+.d14{
+    background-color: lightsteelblue;
+}
+h1{
+    color: olive;
+    text-transform: uppercase;
+    padding: 15px;
+}
+.d21{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+.d22{
+    color: maroon;
+    font-size: 25px;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+.d23{
+    color: mediumblue;
+    font-size: 25px;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+.d24{
+    background-color: lightsteelblue;
+}
+a{
+    color: red;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 15px;
+    background-color: yellow;
+}
+.d31{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding: 15 px;
+    background-color: lightsteelblue;
+}
+.d32{
+    color: maroon;
+    font-size: 25px;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+.d33{
+    color: mediumblue;
+    font-size: 25px;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+.d34{
+    background-color: lightsteelblue;
+}
+button{
+    color: red;
+    font-size: 15px;
+    text-transform: capitalize;
+    padding: 15px;
+    background-color: yellow;
+}
+.d41{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+.d42{
+    color: maroon;
+    font-size: 25px;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+.d43{
+    color: mediumblue;
+    font-size: 25px;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+.d44{
+    background-color: lightsteelblue;
+}
+abbr{
+    font-size: 25px;
+    background-color: rgb(49, 101, 168);
+}
+.d51{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    background-color: cyan;
+}
+.d52{
+    color: maroon;
+    font-size: 25px;
+    padding: 15px;
+    background-color: cyan;
+}
+.d53{
+    color: mediumblue;
+    font-size: 25px;
+    padding: 15px;
+    background-color: cyan;
+}
+.d54{
+    background-color: cyan;
+}
+.dt1{
+    color: darkviolet;
+    font-size: 40px;
+    font-style: bold;
+}
+.dt2{
+    color: darkviolet;
+    font-size: 40px;
+    font-style: bold;
+}
+.dd1{
+    font-size: 20px;
+}
+.dd2{
+    font-size: 20px;
+}
+.d61{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    background-color: cyan;
+}
+.d62{
+    color: maroon;
+    font-size: 25px;
+    padding: 15px;
+    background-color: cyan;
+}
+.d63{
+    color: mediumblue;
+    font-size: 25px;
+    padding: 15px;
+    background-color: cyan;
+}
+.d64{
+    background-color: cyan;
+    font-size: 25px;
+}
+em{
+    color: darkorange;
+}
+.d71{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    background-color: cyan;
+}
+.d72{
+    color: maroon;
+    font-size: 25px;
+    padding: 15px;
+    background-color: cyan;
+}
+.d73{
+    color: mediumblue;
+    font-size: 25px;
+    padding: 15px;
+    background-color: cyan;
+}
+.d74{
+    background-color: cyan;
+}
+.d81{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    background-color: cyan;
+}
+.d82{
+    color: maroon;
+    font-size: 25px;
+    padding: 15px;
+    background-color: cyan;
+}
+.d83{
+    color: mediumblue;
+    font-size: 25px;
+    padding: 15px;
+    background-color: cyan;
+}
+.d84{
+    padding: 15px;
+    font-size: 25px;
+}
